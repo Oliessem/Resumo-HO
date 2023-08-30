@@ -19,8 +19,8 @@ website: https://hoengenharia.com.br
 darkmode: false
 
 # Social links
-linkedin_username: https://www.linkedin.com/in/oliessem
-xing_username: https://www.xing.com/profile/Orlando_LiessemFilho/cv
+linkedin_username: oliessem
+xing_username: Orlando_LiessemFilho
 
 # Additional icon links
 # additional_links:
@@ -41,13 +41,15 @@ xing_username: https://www.xing.com/profile/Orlando_LiessemFilho/cv
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  With over twenty years of engineering and design experience, I bring the following qualifications and expertise: Project and team management, including the development and monitoring of processes and key performance indicators such as cost, time and quality; exceptional ability to communicate ideas and knowledge clearly and efficiently, facilitating relationships with internal and external clients; Focus on integration and building interdisciplinary relationships with architects, engineers and technicians; Well-versed in various computer skills such as Office Suite, AutoCAD, Solidworks, Revit and Robot.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+ # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #  - Lists
+  # - Tables
+  # - <a href="google.com">Links</a>
+  # - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -56,20 +58,21 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        title: Personal Portfolio
+        link: https://ho.hoengenharia.com.br
+        link_text: https://ho.hoengenharia.com.br
+#       additional_links:
+#         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           icon: fab fa-github
+#           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           icon: fab fa-github
+#           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#       quote: >
+#         Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          A large collection of images and designs of my own.
+          
   - title: Experience
     layout: list
     content:
@@ -82,6 +85,36 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role          
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role        
+
   - title: Education
     layout: list
     content:
