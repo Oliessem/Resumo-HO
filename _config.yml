@@ -119,7 +119,7 @@ content:
         title: Bosch Rexroth Ltda
         sub_title: Mechanical Technician / Designer
         caption: 03/02 - 01/07
-        link: https://www.bosch.com.br/nossa-empresa/bosch-no-brasil/pomerode/
+        link: https://www.bosch.com.br
         # quote: >
         #   Short description of the company (optional)
         # description: | # this will include new lines to allow paragraphs
@@ -129,19 +129,44 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: UNISOCIESC
+        sub_title: Bachelor's Graduate
+        caption: 2009 - 2013
+        link: https://www.unisociesc.com.br
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          Civil Engineer
+          
+      - layout: top-right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Escola Técnica Tupy
+        sub_title: Technician
+        caption: 1995 - 1999
+        link: https://www.escolatupy.com.br
+        description: | # this will include new lines to allow paragraphs
+          Mechanical Technician
+          
+  - title: Others
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Skills - Softwares
+        description: | # this will include new lines to allow paragraphs
+          Autodesk Robot / Autodesk Revit / Autodesk AutoCAD / Microsoft Office
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Behavior
+        description: | # this will include new lines to allow paragraphs
+          3D Software Affinity / Adaptability / Project Management and Coordination / Ability to Work Under Pressure / Buildind Information Modeling (BIM) / Time Management
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Languages
+        description: | # this will include new lines to allow paragraphs
+          Portuguese - Mother Tongue / English - Upper Independent / Deutsch - Basic User (A1)
 
 # Footer
 footer_show_references: true
