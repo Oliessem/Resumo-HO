@@ -154,13 +154,13 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Skills - Softwares
         description: | # this will include new lines to allow paragraphs
-          Autodesk Robot / Autodesk Revit / Autodesk AutoCAD / Microsoft Office
+          Autodesk Robot / Autodesk Revit / Autodesk AutoCAD / Solidworks / Office / Excel / and more.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Behavior
         description: | # this will include new lines to allow paragraphs
-          3D Software Affinity / Ability to Work Under Pressure / Time Management / Adaptability / Buildind Information Modeling (BIM) / Project Management and Coordination / Industrial Engineer Designer
+          3D Software Affinity / Ability to Work Under Pressure / Time Management / Adaptability / Buildind Information Modeling (BIM) / Project Management and Coordination / Industrial Engineer Designer / 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
