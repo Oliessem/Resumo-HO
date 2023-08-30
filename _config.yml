@@ -93,21 +93,21 @@ content:
           - Analysis and solution of problems on construction sites.
           
       - layout: right
-        title: CSM Máquinas e Equipamentos Ltda
+        title: CSM Equipamentos Ltda
         sub_title: Project Manager
         caption: 01/11 - 01/15
         link: https://www.csmequipamentos.com.br
         # description: | # this will include new lines to allow paragraphs
         #   Construction machinery and equipment design.    
-      - layout: left
-        title: TAF Indústria de Plasticos Ltda
+      - layout: right
+        title: TAF Plasticos Ltda
         sub_title: Systems Analyst
         caption: 11/09 - 12/10
         link: https://taf.ind.br
         # description: | # this will include new lines to allow paragraphs
         #  Description of role
-      - layout: middle
-        title: Oryzon Indústria de Máquinas e Equipamentos Ltda
+      - layout: right
+        title: Oryzon Máquinas Ltda
         sub_title: Mechanical Technician / Designer
         caption: 02/07 - 09/09
         # link: https://taf.ind.br
