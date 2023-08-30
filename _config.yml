@@ -146,7 +146,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Mechanical Technician
           
-  - title: Others
+  - title: More about
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -160,7 +160,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Behavior
         description: | # this will include new lines to allow paragraphs
-          3D Software Affinity / Adaptability / Project Management and Coordination / Ability to Work Under Pressure / Buildind Information Modeling (BIM) / Time Management
+          3D Software Affinity / Ability to Work Under Pressure / Time Management / Adaptability / Buildind Information Modeling (BIM) / Project Management and Coordination / Industrial Engineer Designer
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
