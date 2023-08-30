@@ -77,7 +77,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: HO ENGENHARIA LTDA
+        title: HO Engenharia Ltda
         sub_title: Civil Engineer
         caption: 08/13 - Present
         link: https://hoengenharia.com.br
@@ -93,34 +93,37 @@ content:
           - Analysis and solution of problems on construction sites.
           
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: CSM Máquinas e Equipamentos Ltda
+        sub_title: Project Manager
+        caption: 01/11 - 01/15
+        link: https://www.csmequipamentos.com.br
         description: | # this will include new lines to allow paragraphs
-          Description of role          
+          Construction machinery and equipment design.    
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        title: TAF Indústria de Plasticos Ltda
+        sub_title: Systems Analyst
+        caption: 11/09 - 12/10
+        link: https://taf.ind.br
+        # description: | # this will include new lines to allow paragraphs
+        #  Description of role
+      - layout: right
+        title: Oryzon Indústria de Máquinas e Equipamentos Ltda
+        sub_title: Mechanical Technician / Designer
+        caption: 02/07 - 09/09
+        # link: https://taf.ind.br
+        # description: | # this will include new lines to allow paragraphs
+        #  Description of role        
       - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role        
+        title: Bosch Rexroth Ltda
+        sub_title: Mechanical Technician / Designer
+        caption: 03/02 - 01/07
+        link: https://www.bosch.com.br/nossa-empresa/bosch-no-brasil/pomerode/
+        # quote: >
+        #   Short description of the company (optional)
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of role        
 
   - title: Education
     layout: list
